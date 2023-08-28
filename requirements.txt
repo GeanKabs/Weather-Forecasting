@@ -5,4 +5,5 @@ matplotlib
 numpy
 plotly
 prophet
+streamlit_plotly_events
 
