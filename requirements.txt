@@ -1,9 +1,8 @@
 streamlit
 pandas
 seaborn
-matplotlib.pyplot
-streamlit.components.v1
+matplotlib
 numpy
-plotly.express
+plotly
 prophet
 
