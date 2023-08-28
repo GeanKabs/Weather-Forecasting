@@ -15,7 +15,7 @@ st.set_page_config(layout="wide", initial_sidebar_state="expanded", page_title='
 #figure_show = selected_points = plotly_events(figure)
 
 # Loading the available data and overview
-path = "/home/gk/Projects/WeatherForcasting/DailyDelhiClimateTrain.csv"
+path = "WeatherForcasting/DailyDelhiClimateTrain.csv"
 st.sidebar.header('Weather Forecasting')
 st.sidebar.write('''This is a Weather Forecasting App, that uses historical data of Delhi, India. The data dates back 2013 to 2017.''')
 
