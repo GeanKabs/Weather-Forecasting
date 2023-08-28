@@ -6,4 +6,4 @@ numpy
 plotly
 prophet
 streamlit_plotly_events
-
+plotly.express
